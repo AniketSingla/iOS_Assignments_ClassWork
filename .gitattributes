@@ -1,0 +1,8 @@
+*.swift linguist-language=Swift
+*.playground linguist-language=Swift
+*.xcodeproj linguist-generated
+*.xcworkspace linguist-generated
+*.pbxproj linguist-generated
+*.plist linguist-generated
+*.storyboard linguist-language=XML
+*.xib linguist-language=XML
