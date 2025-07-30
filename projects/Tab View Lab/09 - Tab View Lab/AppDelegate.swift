@@ -1,8 +1,7 @@
 //
 //  AppDelegate.swift
-//  PersonalityQuiz
+//  Tab View Lab
 //
-//  Created by Aniket Singla on 29/07/25.
 //
 
 import UIKit

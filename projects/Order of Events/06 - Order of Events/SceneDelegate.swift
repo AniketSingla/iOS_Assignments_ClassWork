@@ -1,8 +1,7 @@
 //
 //  SceneDelegate.swift
-//  PersonalityQuiz
+//  Order of Events
 //
-//  Created by Aniket Singla on 29/07/25.
 //
 
 import UIKit

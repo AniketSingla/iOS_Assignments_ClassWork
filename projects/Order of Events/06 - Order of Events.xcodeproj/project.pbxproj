@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C79E93032E38862100DCA4AB /* PersonalityQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PersonalityQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9FB20D72E2F627600C92B67 /* 06 - Order of Events.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "06 - Order of Events.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		C79E93152E38862200DCA4AB /* Exceptions for "PersonalityQuiz" folder in "PersonalityQuiz" target */ = {
+		A9FB20E92E2F627700C92B67 /* Exceptions for "06 - Order of Events" folder in "06 - Order of Events" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = C79E93022E38862100DCA4AB /* PersonalityQuiz */;
+			target = A9FB20D62E2F627600C92B67 /* 06 - Order of Events */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		C79E93052E38862100DCA4AB /* PersonalityQuiz */ = {
+		A9FB20D92E2F627600C92B67 /* 06 - Order of Events */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				C79E93152E38862200DCA4AB /* Exceptions for "PersonalityQuiz" folder in "PersonalityQuiz" target */,
+				A9FB20E92E2F627700C92B67 /* Exceptions for "06 - Order of Events" folder in "06 - Order of Events" target */,
 			);
-			path = PersonalityQuiz;
+			path = "06 - Order of Events";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C79E93002E38862100DCA4AB /* Frameworks */ = {
+		A9FB20D42E2F627600C92B67 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C79E92FA2E38862100DCA4AB = {
+		A9FB20CE2E2F627600C92B67 = {
 			isa = PBXGroup;
 			children = (
-				C79E93052E38862100DCA4AB /* PersonalityQuiz */,
-				C79E93042E38862100DCA4AB /* Products */,
+				A9FB20D92E2F627600C92B67 /* 06 - Order of Events */,
+				A9FB20D82E2F627600C92B67 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C79E93042E38862100DCA4AB /* Products */ = {
+		A9FB20D82E2F627600C92B67 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C79E93032E38862100DCA4AB /* PersonalityQuiz.app */,
+				A9FB20D72E2F627600C92B67 /* 06 - Order of Events.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C79E93022E38862100DCA4AB /* PersonalityQuiz */ = {
+		A9FB20D62E2F627600C92B67 /* 06 - Order of Events */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C79E93162E38862200DCA4AB /* Build configuration list for PBXNativeTarget "PersonalityQuiz" */;
+			buildConfigurationList = A9FB20EA2E2F627700C92B67 /* Build configuration list for PBXNativeTarget "06 - Order of Events" */;
 			buildPhases = (
-				C79E92FF2E38862100DCA4AB /* Sources */,
-				C79E93002E38862100DCA4AB /* Frameworks */,
-				C79E93012E38862100DCA4AB /* Resources */,
+				A9FB20D32E2F627600C92B67 /* Sources */,
+				A9FB20D42E2F627600C92B67 /* Frameworks */,
+				A9FB20D52E2F627600C92B67 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				C79E93052E38862100DCA4AB /* PersonalityQuiz */,
+				A9FB20D92E2F627600C92B67 /* 06 - Order of Events */,
 			);
-			name = PersonalityQuiz;
+			name = "06 - Order of Events";
 			packageProductDependencies = (
 			);
-			productName = PersonalityQuiz;
-			productReference = C79E93032E38862100DCA4AB /* PersonalityQuiz.app */;
+			productName = "06 - Order of Events";
+			productReference = A9FB20D72E2F627600C92B67 /* 06 - Order of Events.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C79E92FB2E38862100DCA4AB /* Project object */ = {
+		A9FB20CF2E2F627600C92B67 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					C79E93022E38862100DCA4AB = {
+					A9FB20D62E2F627600C92B67 = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = C79E92FE2E38862100DCA4AB /* Build configuration list for PBXProject "PersonalityQuiz" */;
+			buildConfigurationList = A9FB20D22E2F627600C92B67 /* Build configuration list for PBXProject "06 - Order of Events" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = C79E92FA2E38862100DCA4AB;
+			mainGroup = A9FB20CE2E2F627600C92B67;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = C79E93042E38862100DCA4AB /* Products */;
+			productRefGroup = A9FB20D82E2F627600C92B67 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C79E93022E38862100DCA4AB /* PersonalityQuiz */,
+				A9FB20D62E2F627600C92B67 /* 06 - Order of Events */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C79E93012E38862100DCA4AB /* Resources */ = {
+		A9FB20D52E2F627600C92B67 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C79E92FF2E38862100DCA4AB /* Sources */ = {
+		A9FB20D32E2F627600C92B67 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		C79E93172E38862200DCA4AB /* Debug */ = {
+		A9FB20EB2E2F627700C92B67 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -146,7 +146,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = PersonalityQuiz/Info.plist;
+				INFOPLIST_FILE = "06 - Order of Events/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -157,7 +157,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Aniket-Singla.PersonalityQuiz";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.arpit.1623.-6---Order-of-Events";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -165,7 +165,7 @@
 			};
 			name = Debug;
 		};
-		C79E93182E38862200DCA4AB /* Release */ = {
+		A9FB20EC2E2F627700C92B67 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -173,7 +173,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = PersonalityQuiz/Info.plist;
+				INFOPLIST_FILE = "06 - Order of Events/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -184,7 +184,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Aniket-Singla.PersonalityQuiz";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.arpit.1623.-6---Order-of-Events";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -192,7 +192,7 @@
 			};
 			name = Release;
 		};
-		C79E93192E38862200DCA4AB /* Debug */ = {
+		A9FB20ED2E2F627700C92B67 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -255,7 +255,7 @@
 			};
 			name = Debug;
 		};
-		C79E931A2E38862200DCA4AB /* Release */ = {
+		A9FB20EE2E2F627700C92B67 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -314,25 +314,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C79E92FE2E38862100DCA4AB /* Build configuration list for PBXProject "PersonalityQuiz" */ = {
+		A9FB20D22E2F627600C92B67 /* Build configuration list for PBXProject "06 - Order of Events" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C79E93192E38862200DCA4AB /* Debug */,
-				C79E931A2E38862200DCA4AB /* Release */,
+				A9FB20ED2E2F627700C92B67 /* Debug */,
+				A9FB20EE2E2F627700C92B67 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C79E93162E38862200DCA4AB /* Build configuration list for PBXNativeTarget "PersonalityQuiz" */ = {
+		A9FB20EA2E2F627700C92B67 /* Build configuration list for PBXNativeTarget "06 - Order of Events" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C79E93172E38862200DCA4AB /* Debug */,
-				C79E93182E38862200DCA4AB /* Release */,
+				A9FB20EB2E2F627700C92B67 /* Debug */,
+				A9FB20EC2E2F627700C92B67 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C79E92FB2E38862100DCA4AB /* Project object */;
+	rootObject = A9FB20CF2E2F627600C92B67 /* Project object */;
 }
