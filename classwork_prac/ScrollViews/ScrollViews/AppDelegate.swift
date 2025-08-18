@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  UIScrollView
+//  ScrollViews
 //
 //  Created by Aniket Singla on 18/08/25.
 //
